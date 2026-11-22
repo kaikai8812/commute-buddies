@@ -12,6 +12,17 @@
 | [04-design.md](04-design.md) | 体験とデザインの方針 |
 | [05-scope-and-open-issues.md](05-scope-and-open-issues.md) | MVP で作らないもの、将来の検討、未決事項 |
 
+## Claude アーティファクト
+
+HTML などの成果物はリポジトリに置かず、リンクで管理する。
+
+| 名前 | 内容 | リンク |
+| --- | --- | --- |
+| 通勤ハムスター 要件定義 | MVP 要件の要約(HTML、2026-11-22 版) | https://claude.ai/artifact/1WWBsV7gotP3FVps5dWqSs |
+| 通勤ハムスター 要件定義(仮) | 文章仕様(2026-11-16 版) | https://claude.ai/artifact/Av27rJmG6NzPbAeRWFEXKQ |
+| 通勤ハムスター 雰囲気(ジオラマ案) | ホーム画面のデザイン案2種 | https://claude.ai/artifact/J3DgNBjfNHqVFFRubjHDsx |
+| Apple注目iOSアプリUI リファレンス集(2026) | UI の参考資料 | https://claude.ai/artifact/FW5bjgeaKky2JWL2urm4te |
+
 ## 出典
 
 Claude の成果物(アーティファクト)から書き起こした。
