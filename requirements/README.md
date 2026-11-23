@@ -22,6 +22,7 @@ HTML などの成果物はリポジトリに置かず、リンクで管理する
 | 通勤ハムスター 要件定義(仮) | 文章仕様(2026-11-16 版) | https://claude.ai/artifact/Av27rJmG6NzPbAeRWFEXKQ |
 | 通勤ハムスター 雰囲気(ジオラマ案) | ホーム画面のデザイン案2種 | https://claude.ai/artifact/J3DgNBjfNHqVFFRubjHDsx |
 | Apple注目iOSアプリUI リファレンス集(2026) | UI の参考資料 | https://claude.ai/artifact/FW5bjgeaKky2JWL2urm4te |
+| 通勤ハムスター 画面設計 | 画面構成のワイヤーフレーム(ステップごとに更新) | https://claude.ai/artifact/PuAN5nPSRsMxAibRCeCZCe |
 
 ## 出典
 
